@@ -1,4 +1,5 @@
 # java-projects
+1. Mini Banking System – Java CLI app demonstrating OOP with multiple accounts, deposits, withdrawals, balance check, and transaction history
 Java projects demonstrating OOP principles, algorithm practice, and problem-solving skills for beginners.
 ## Projects Included
 1. Student Management System – simple CLI to manage student data
